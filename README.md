@@ -6,5 +6,5 @@
 # Search about the dominio and changes 
 # Price, search sources with prices
 # Study how to connect and use links to other website and whatsapp number
-#
+# Dfine better steps and dealine for each one
 #
