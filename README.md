@@ -1,5 +1,5 @@
 
-![logo](https://github.com/crisGriebler/hostelsocial/blob/main/webdesign.png)
+
 
 <h1 align="center">Repository of Hostel Social web design Project </h1>
 <h3 align="center">Project step list:</h3>
@@ -16,3 +16,5 @@
 
 - Define primordial steps and deadline for each one
 
+
+![logo](https://github.com/crisGriebler/hostelsocial/blob/main/webdesign.png)
