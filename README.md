@@ -1,4 +1,8 @@
-# hostelsocial
+
+![logo](https://github.com/crisGriebler/hostelsocial/blob/main/webdesign.png)
+
+<h1 align="center">Hello 👋, this is the repository for Hostel Social web design Project </h1>
+<h3 align="center">Here the step list for the project:</h3>
 # I have create this repo to built hostel social website
 # Steps:
 # Define the language (HTML, CSSS, or mix>)
