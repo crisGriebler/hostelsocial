@@ -6,7 +6,7 @@
 
 - Search about the dominio(Hostinger) and necessary changes 
 
-- Price, search sources with prices (700 ~ 5000 (depend of page number))
+- Price, search sources with prices (700 ~ 5000 (depend of nº page))
 
 - Define the language (HTML, CSSS, or mix>)
 
