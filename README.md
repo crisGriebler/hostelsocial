@@ -4,7 +4,7 @@
 <h1 align="center"> Repository of Hostel Social web design Project </h1>
 <h3 align="center"> Project step list: </h3>
 
-- Search about the dominio(Hostinger) and necessary changes. Creating a new code for the page, after 
+- Search about the dominio(Hostinger) and necessary changes. Creating a new code for the page, after this use the dominio to upload the new page.
 
 - Price, search sources with prices (700 ~ 5000 (depend of nº page))
 
