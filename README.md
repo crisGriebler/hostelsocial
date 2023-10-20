@@ -8,11 +8,12 @@
 
 - Price, search sources with prices (700 ~ 5000 (depend of nº page))
 
-- Define the language (HTML, CSSS, or mix>)
+- Define the language (HTML, CSSS, or mix)
 
 - Find list of adorable and practical template and define how many pages for the project
 
 - Connect and use links to other website(booking, hqbeds or instagram) and whatsapp number
+- hqbeds motor de reserva é fixo!
 
 - Define primordial steps and deadline for each one
 
